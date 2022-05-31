@@ -15,3 +15,4 @@ ADD gameoflife.war /mnt/apache-tomcat-9.0.62/webapps/
 EXPOSE 8080
 
 CMD ["apache-tomcat-9.0.62/bin/catalina.sh", "run"]
+
